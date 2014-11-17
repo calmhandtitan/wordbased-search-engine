@@ -8,3 +8,5 @@ for installing, you should add jsoup to it, and then run it, preferably on eclip
 It will take some time ( 2-3 minutes ) to make the index of the seed webside.
 
 Then you can put any regex query and it will find out the pages which contain it.
+
+The crawler part is taken from https://github.com/jinchung/searchengine-java
